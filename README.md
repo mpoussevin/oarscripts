@@ -9,5 +9,5 @@ And here is a short description of what does each script:
 * big_findjob.sh: locates the working directory of a job given its id (also outputs the command of the job).
 * big_mvlogs.sh: easy moving of logs (stdout/stderr) to a folder with a prefix.
 * big_newjob.sh: helper script for oarsub: it requires BIG_MAIL to be set
-
+* big_simplejob.sh: same as newjob.sh but simpler, for jobs on one core.
 
